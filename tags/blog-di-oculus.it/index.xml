@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Di Oculus.it on Oculus.IT - Linux &amp; Open Source Software</title>
+    <link>http://localhost:1313/tags/blog-di-oculus.it/</link>
+    <description>Recent content in Blog Di Oculus.it on Oculus.IT - Linux &amp; Open Source Software</description>
+    <generator>Hugo</generator>
+    <language>IT_it</language>
+    <lastBuildDate>Wed, 21 Jan 2026 19:53:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog-di-oculus.it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il primo post del nuovo blog</title>
+      <link>http://localhost:1313/blogs/primo-post/</link>
+      <pubDate>Wed, 21 Jan 2026 19:53:33 +0100</pubDate>
+      <guid>http://localhost:1313/blogs/primo-post/</guid>
+      <description>&lt;h2 id=&#34;benvenuto-nel-nuovo-blog&#34;&gt;Benvenuto nel nuovo blog!&lt;/h2&gt;&#xA;&lt;p&gt;rrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&#xA;&#xA;Write in-line equations with `\\( ... \\)` , like \\( x^n / y \\) . It&amp;#39;s easy!&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write in-line equations with &lt;code&gt;\\( ... \\)&lt;/code&gt; , like \( x^n / y \) . It&amp;rsquo;s easy!&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>
