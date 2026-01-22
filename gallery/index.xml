@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex - Il mio personaggio on Oculus.IT - Linux &amp; Open Source Software</title>
-    <link>https://oculusit.github.io/gallery/</link>
+    <link>https://oculusit.github.io/blog/gallery/</link>
     <description>Recent content in Alex - Il mio personaggio on Oculus.IT - Linux &amp; Open Source Software</description>
     <generator>Hugo</generator>
     <language>IT_it</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://oculusit.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://oculusit.github.io/blog/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
