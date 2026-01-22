@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://oculusit.github.io/blog/tags/benvenuto/</loc>
+    <loc>./tags/benvenuto/</loc>
     <lastmod>2026-01-21T19:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/tags/blog-di-oculus.it/</loc>
+    <loc>./tags/blog-di-oculus.it/</loc>
     <lastmod>2026-01-21T19:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/blogs/</loc>
+    <loc>./blogs/</loc>
     <lastmod>2026-01-21T19:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/blogs/primo-post/</loc>
+    <loc>./blogs/primo-post/</loc>
     <lastmod>2026-01-21T19:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/</loc>
+    <loc>./</loc>
     <lastmod>2026-01-21T19:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/tags/</loc>
+    <loc>./tags/</loc>
     <lastmod>2026-01-21T19:53:33+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/gallery/</loc>
+    <loc>./gallery/</loc>
     <lastmod>2026-01-21T18:35:46+01:00</lastmod>
   </url><url>
-    <loc>https://oculusit.github.io/blog/categories/</loc>
+    <loc>./categories/</loc>
   </url>
 </urlset>

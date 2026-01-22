@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Benvenuto on Oculus.IT - Linux &amp; Open Source Software</title>
-    <link>https://oculusit.github.io/blog/tags/benvenuto/</link>
+    <link>./tags/benvenuto/</link>
     <description>Recent content in Benvenuto on Oculus.IT - Linux &amp; Open Source Software</description>
     <generator>Hugo</generator>
     <language>IT_it</language>
     <lastBuildDate>Wed, 21 Jan 2026 19:53:33 +0100</lastBuildDate>
-    <atom:link href="https://oculusit.github.io/blog/tags/benvenuto/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="./tags/benvenuto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Il primo post del nuovo blog</title>
-      <link>https://oculusit.github.io/blog/blogs/primo-post/</link>
+      <link>./blogs/primo-post/</link>
       <pubDate>Wed, 21 Jan 2026 19:53:33 +0100</pubDate>
-      <guid>https://oculusit.github.io/blog/blogs/primo-post/</guid>
+      <guid>./blogs/primo-post/</guid>
       <description>&lt;h2 id=&#34;benvenuto-nel-nuovo-blog&#34;&gt;Benvenuto nel nuovo blog!&lt;/h2&gt;&#xA;&lt;p&gt;Prima di tutto permettimi di darti il &lt;strong&gt;benvenuto&lt;/strong&gt; in questo nuovo blog: un nuovo formato visivo, maggior velocità e soprattutto, maggiore sicurezza!&lt;/p&gt;&#xA;&lt;p&gt;Sì, ho deciso di abbandonare, gradualmente, il caro vecchio sito &lt;em&gt;wordpress&lt;/em&gt; per tornare alle origini dei siti &lt;em&gt;statici&lt;/em&gt; per guadagnare almeno in &lt;strong&gt;velocità e sicurezza&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;perché-questa-scelta&#34;&gt;Perché questa scelta?&lt;/h3&gt;&#xA;&lt;p&gt;La risposta è molto semplice: in realtà a cosa mi serviva un sito dinamico? &lt;strong&gt;Vendo online?&lt;/strong&gt; No, non faccio vendite online e non necessito quindi di carrelli. &lt;strong&gt;Sfrutto pubblicità esterne per guadagnarci?&lt;/strong&gt; Ancora la risposta è &lt;em&gt;no&lt;/em&gt; e quindi non necessito di inserire elementi dinamici come pubblicità a siti esterni.&lt;/p&gt;</description>
     </item>
   </channel>

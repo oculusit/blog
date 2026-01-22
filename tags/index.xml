@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Oculus.IT - Linux &amp; Open Source Software</title>
-    <link>https://oculusit.github.io/blog/tags/</link>
+    <link>./tags/</link>
     <description>Recent content in Tags on Oculus.IT - Linux &amp; Open Source Software</description>
     <generator>Hugo</generator>
     <language>IT_it</language>
     <lastBuildDate>Wed, 21 Jan 2026 19:53:33 +0100</lastBuildDate>
-    <atom:link href="https://oculusit.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Benvenuto</title>
-      <link>https://oculusit.github.io/blog/tags/benvenuto/</link>
+      <link>./tags/benvenuto/</link>
       <pubDate>Wed, 21 Jan 2026 19:53:33 +0100</pubDate>
-      <guid>https://oculusit.github.io/blog/tags/benvenuto/</guid>
+      <guid>./tags/benvenuto/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog Di Oculus.it</title>
-      <link>https://oculusit.github.io/blog/tags/blog-di-oculus.it/</link>
+      <link>./tags/blog-di-oculus.it/</link>
       <pubDate>Wed, 21 Jan 2026 19:53:33 +0100</pubDate>
-      <guid>https://oculusit.github.io/blog/tags/blog-di-oculus.it/</guid>
+      <guid>./tags/blog-di-oculus.it/</guid>
       <description></description>
     </item>
   </channel>

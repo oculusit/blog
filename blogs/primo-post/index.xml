@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Il primo post del nuovo blog on Oculus.IT - Linux &amp; Open Source Software</title>
-    <link>https://oculusit.github.io/blog/blogs/primo-post/</link>
+    <link>./blogs/primo-post/</link>
     <description>Recent content in Il primo post del nuovo blog on Oculus.IT - Linux &amp; Open Source Software</description>
     <generator>Hugo</generator>
     <language>IT_it</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://oculusit.github.io/blog/blogs/primo-post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="./blogs/primo-post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
